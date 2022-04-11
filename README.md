@@ -3,9 +3,7 @@
 ![hello world](https://github.com/hayat-tamboli/hayat-tamboli/raw/master/hello-world.png)
 
 ## About me :mortar_board:
-I am a Mariam Albadrani,I have experience in the latest modern web technologies,
-I am interested in building a responsive website with high quality and creative functions,
-I graduated with a bachelor's degree in computer science .
+Experienced developer and programmer, with a history of working in the field of management and information technology. Skilled in creating projects, with a master and rational approach to solving a problem related to practical methods. I have extensive experience in databases, programming, design and development. Strong Professional in Website and Application Development with Bachelor's Degree in Computer Science, Princess Nourah Bint Abdulrahman University, Riyadh, Saudi Arabia
 
 ## What I know :computer:
 
