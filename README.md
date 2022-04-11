@@ -1,6 +1,6 @@
 # Welcome to my github! 👋
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYNLbREpQ97-27d1qGzAi3y3qjp0l7-Wkhjw&usqp=CAU" alt ="photo" width= "400" >
+<img src="https://trio.dev/static/46a74b0f7c9b47353ea207a29731bc51/263a75529a1752b75d64f9f21fd07c92.jpg" alt ="photo" width= "400" >
 
 
 ## About me :mortar_board:
