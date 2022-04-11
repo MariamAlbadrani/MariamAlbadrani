@@ -1,6 +1,6 @@
 # Welcome to my github! 👋
 
-<img src="https://trio.dev/static/46a74b0f7c9b47353ea207a29731bc51/263a75529a1752b75d64f9f21fd07c92.jpg" alt ="photo" width= "400" >
+<img src="https://assets.materialup.com/uploads/3c4c9c12-9ff6-4fd4-8b8b-a9f93c5effe4/preview.jpg" alt ="photo" width= "600" >
 
 
 ## About me :mortar_board:
