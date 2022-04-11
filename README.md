@@ -1,6 +1,6 @@
 # Welcome to my github! 👋
 
-<img src="https://cdn.dribbble.com/users/281525/screenshots/1768570/jmanalus.gif" alt ="photo" width= "359"  >
+<img src="https://cdn.dribbble.com/users/281525/screenshots/1768570/jmanalus.gif" alt ="photo" width= "380"  >
 
 
 ## About me :mortar_board:
