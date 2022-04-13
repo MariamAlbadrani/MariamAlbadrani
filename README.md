@@ -1,6 +1,6 @@
 # Welcome to my github! 👋
 
-<img src="https://thumbs.gfycat.com/GlisteningAggravatingJunebug-max-1mb.gif" alt ="photo" width= "380"  >
+<img src="https://cdn.dribbble.com/users/1016670/screenshots/2508353/media/ed34263dde9834005f66feff2dd52e56.gif" alt ="photo" width= "380"  >
 
 
 ## About me :mortar_board:
